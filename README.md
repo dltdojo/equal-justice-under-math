@@ -1,8 +1,10 @@
 # equal-justice-under-math
 
 * Accord Project http://www.accordproject.org/
+* OpenLaw - A Free Legal Repository http://openlaw.io/
 * Accord Project's Consortium Launching First Legal 'Smart Contracts' With Hyperledger https://www.forbes.com/sites/rogeraitken/2017/07/26/accord-projects-consortium-launching-first-legal-smart-contracts-with-hyperledger/
 * Accord Project joins Hyperledger to push standards for smart contracts http://www.ibtimes.co.uk/accord-project-joins-hyperledger-push-standards-smart-contracts-1632093
+* Introducing OpenLaw – ConsenSys Media https://media.consensys.net/introducing-openlaw-7a2ea410138b
 * ERC20 Token Standard - The Ethereum Wiki https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 * 行政院全球資訊網-定型化契約範本 http://www.ey.gov.tw/News4.aspx?n=4F9D46C1503F2B7D
 * Support for JSON-LD data. · Issue #15 · g0v/labor-standards-tw https://github.com/g0v/labor-standards-tw/issues/15
@@ -15,4 +17,5 @@ equal-justice-under-math專案待辦:
 
 * 既有中文定型化合約範本PDF版本轉換成Hyperledger Fabric
 * 轉換 Ethereum鏈上智約版本
-* 測試如何整合Accord相關標準
+* 整合Accord相關標準
+* 整合OpenLaw相關標準
