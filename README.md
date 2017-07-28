@@ -5,6 +5,7 @@
 * Accord Project joins Hyperledger to push standards for smart contracts http://www.ibtimes.co.uk/accord-project-joins-hyperledger-push-standards-smart-contracts-1632093
 * ERC20 Token Standard - The Ethereum Wiki https://theethereum.wiki/w/index.php/ERC20_Token_Standard
 * 行政院全球資訊網-定型化契約範本 http://www.ey.gov.tw/News4.aspx?n=4F9D46C1503F2B7D
+* Support for JSON-LD data. · Issue #15 · g0v/labor-standards-tw https://github.com/g0v/labor-standards-tw/issues/15
 
 smart legal contracts或computable legal contracts概念是合約標準定型化增加效率，以太坊智能合約來舉例，早期以太坊鏈上代幣合約各寫各的版本，不管是合約代幣的交換或應用程式要全部支援各式各樣的代幣智約實務上也不太可行，於是後來逐漸形成現在以太坊ICO幾乎是標準作法的ERC20定型化代幣智能合約。
 
